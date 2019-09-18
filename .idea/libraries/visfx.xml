@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="visfx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.idea/visfx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
